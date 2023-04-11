@@ -1,0 +1,1 @@
+INSERT INTO wax (temperature, name, price) VALUES (50, 'SWIX_HF10BW', 44), (50, 'TOKO_ALl_IN_ONE', 4), (10, 'SWIX_HF4', 13), (18, 'DAKINE', 3), (21, 'ONEBALL', 5), (30, 'DEMON_HYPER_WAX', 2);
